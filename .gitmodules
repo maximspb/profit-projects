@@ -1,0 +1,6 @@
+[submodule "laravel"]
+	path = laravel
+	url = git@github.com:maximspb/profit-laravel.git
+[submodule "symfony"]
+	path = symfony
+	url = git@github.com:maximspb/profit-symfony.git
